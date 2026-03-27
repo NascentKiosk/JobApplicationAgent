@@ -6,4 +6,4 @@ KEYWORD = "Deltid"
 REGION = "12"  # Skåne län
 OCCUPATION_FIELD = "3"  # Data/IT
 
-MAX_JOBS = 10
+MAX_JOBS = 20
