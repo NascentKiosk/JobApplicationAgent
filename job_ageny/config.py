@@ -2,7 +2,7 @@ NAME = "Timothy Juma"
 SKILLS = ["Python", "SQL", "Java", "Javascript", "Bash"]
 
 
-KEYWORD = "sommarjobb"
+KEYWORD = "Deltid"
 REGION = "12"  # Skåne län
 OCCUPATION_FIELD = "3"  # Data/IT
 
